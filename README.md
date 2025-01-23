@@ -56,7 +56,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-official.svg" alt="TensorFlow" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
 </p>
 
