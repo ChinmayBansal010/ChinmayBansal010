@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Bansal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">🌱 I’m currently learning <strong>Python, Java, C, C++</strong></p>
+<p align="center">🌱 I’m currently learning <strong>Python, Flutter, Dart, C, C++</strong></p>
 <p align="center">📫 You can reach me at <strong>chinmay8521@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
