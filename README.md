@@ -18,9 +18,9 @@
 [![My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://chinmaybansal.netlify.app/)
 
 ## 🌐 Portfolio
-[![My Blog](https://img.shields.io/badge/Visit%20My%20Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://chinmaybansal.netlify.app/)
+[![My Blog](https://img.shields.io/badge/Visit%20My%20Blog-000000?style=for-the-badge&logo=github&logoColor=white)](https://chinmaybansal.hashnode.dev/)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://chinmaybansal.hashnode.dev/)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/ChinmayBansal)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
