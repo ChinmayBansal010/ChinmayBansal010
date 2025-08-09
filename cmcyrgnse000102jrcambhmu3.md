@@ -5,7 +5,7 @@ seoDescription: "Learn how to integrate Artificial Intelligence and Machine Lear
 datePublished: Fri Jul 11 2025 11:56:15 GMT+0000 (Coordinated Universal Time)
 cuid: cmcyrgnse000102jrcambhmu3
 slug: how-to-combine-flutter-with-aiml-to-build-intelligent-cross-platform-apps
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752235866938/f62ee85e-183e-4540-bedf-be06cfbd1e88.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754748988789/84165c09-d2f8-45df-a189-d8582db1cdcc.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1752235437795/7a5f55ed-8129-49fb-bd76-fe6ef57718bb.png
 tags: ai, mobile-apps, python, flutter, developer, opensource-inactive, ml, flutterdev
 
