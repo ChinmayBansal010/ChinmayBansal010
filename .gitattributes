@@ -1,0 +1,26 @@
+# Ignore Flutter auto-generated iOS and Android files
+ios/** linguist-vendored
+android/** linguist-vendored
+
+# Ignore Gradle, CocoaPods, and build files
+*.gradle linguist-vendored
+Podfile* linguist-vendored
+*.xc* linguist-vendored
+*.pbxproj linguist-vendored
+*.plist linguist-vendored
+
+# Ignore C, C++ auto-generated native bindings
+*.c linguist-vendored
+*.h linguist-vendored
+*.cpp linguist-vendored
+*.cc linguist-vendored
+
+# Ignore build outputs
+build/** linguist-vendored
+.flutter-plugins linguist-vendored
+.flutter-plugins-dependencies linguist-vendored
+.packages linguist-vendored
+
+# Make sure Dart & Python get full weight
+*.dart linguist-detectable=true
+*.py linguist-detectable=true
