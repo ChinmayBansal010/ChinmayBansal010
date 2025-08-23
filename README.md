@@ -11,6 +11,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 ---
 
 ## 🌐 Connect with Me
