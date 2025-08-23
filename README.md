@@ -11,9 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -61,22 +58,19 @@
 # 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  
+</p>
+
+<p align = "left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ChinmayBansal010&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBansal010&theme=tokyonight&hide_border=true&layout=compact" height="180px"/>
+<p align="center">
+  <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChinmayBansal010&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</p>
 
 ---
 
