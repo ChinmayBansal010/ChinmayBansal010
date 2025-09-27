@@ -7,22 +7,16 @@ on:
       # every 12 hours
     - cron: "0 */1 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
   push:
     branches:
     - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -32,7 +26,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          speed: 5
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -40,6 +33,22 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Slow down the snake animations
+        run: |
+          # Slow down SVGs
+          for file in dist/*.svg; do
+            sed -i 's/animation-duration="1s"/animation-duration="3s"/g' "$file"
+          done
+      
+          # Install gifsicle to slow down GIFs
+          sudo apt-get update
+          sudo apt-get install -y gifsicle
+      
+          # Slow down GIFs to match SVG speed
+          for gif in dist/*.gif; do
+            gifsicle --delay=33 "$gif" -o "$gif"
+          done
+          
       - name: Show build status
         run: git status
 
