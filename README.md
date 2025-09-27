@@ -28,6 +28,18 @@
 
 ---
 
+## 🚀 Portfolio & Blog
+<p align="left">
+  <a href="https://chinmaybansal.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://chinmaybansal.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/✍️%20Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ### 🚀 Languages, Frameworks & Tools
@@ -113,18 +125,6 @@
     src="https://leetcard.jacoblin.cool/ChinmayBansal?ext=heatmap&theme=dark&border=0&radius=5"
     style="width:500px; height:auto;"
 />
-</p>
-
----
-
-## 🚀 Portfolio & Blog
-<p align="left">
-  <a href="https://chinmaybansal.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://chinmaybansal.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/✍️%20Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
 </p>
 
 ---
