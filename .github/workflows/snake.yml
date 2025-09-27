@@ -32,6 +32,8 @@ jobs:
 
       - name: Slow down the snake animations
         run: |
+          chmod u+w dist/*.svg dist/*.gif
+          
           # Slow down SVGs safely
           for file in dist/*.svg; do
             sed 's/animation-duration="1s"/animation-duration="3s"/g' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
