@@ -38,8 +38,8 @@ jobs:
           done
 
           # Install gifsicle to slow down GIFs
-          sudo apt-get update
-          sudo apt-get install -y gifsicle
+          sudo DEBIAN_FRONTEND=noninteractive apt-get update -y
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y gifsicle
 
           # Slow down GIFs to match SVG speed
           for gif in dist/*.gif; do
