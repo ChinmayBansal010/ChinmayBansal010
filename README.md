@@ -87,19 +87,33 @@
 
 # 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal010&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
 </p>
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChinmayBansal010&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChinmayBansal010&theme=dark&hide_border=true" height="180px"/>
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true"/>
+</p>
+
+#
+
+<p align="left">
   <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-### 🔝 Top Contributed Repos
-<img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true"/>
+---
+
+## 📊 LeetCode Stats
+
+<p align="left">
+  <img 
+    src="https://leetcard.jacoblin.cool/ChinmayBansal?ext=heatmap&theme=dark&border=0&radius=5"
+    style="width:500px; height:auto;"
+/>
+</p>
 
 ---
 
