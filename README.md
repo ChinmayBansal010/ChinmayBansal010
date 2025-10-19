@@ -31,10 +31,10 @@
 ## 🚀 Portfolio & Blog
 <p align="left">
   <a href="https://chinmaybansal.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://chinmaybansal.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/✍️%20Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
 ### ⚡ Backend & Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-D00000.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -85,6 +85,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-33BE2C?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ### 🔧 Hardware & Others
@@ -107,8 +108,14 @@
 </p>
 
 <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" height="280px"/>
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBansal010&hide=HTML,CSS,JavaScript,TypeScript,Jupyter%20Notebook,C&layout=compact&theme=dark&hide_border=true" height="280px"/>
+</p>
+
+
 
 #
 
