@@ -121,16 +121,6 @@
 
 ---
 
-## 📊 LeetCode Stats
-
-<p align="left">
-  <img 
-    src="https://leetcard.jacoblin.cool/ChinmayBansal?ext=heatmap&theme=dark&border=0&radius=5"
-    style="width:500px; height:auto;"
-/>
-</p>
-
----
 
 ## 💰 Support My Work
 <p align="left">
