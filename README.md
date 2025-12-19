@@ -5,11 +5,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ChinmayBansal010" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast+🤖;Flutter+Developer+📱;Tech+Explorer+🌐;Always+Learning+💡" alt="Taglines" />
   </a>
-</p>
+</p> -->
 
 ---
 
