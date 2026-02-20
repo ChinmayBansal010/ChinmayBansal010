@@ -55,6 +55,7 @@
 ### 🤖 AI/ML & Data Science
 
 <p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white"/>
@@ -87,7 +88,6 @@
 ### 🔧 Hardware & Others
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-27338e.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
