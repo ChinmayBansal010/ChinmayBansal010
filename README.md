@@ -95,9 +95,9 @@
 ---
 
 # 📊 GitHub Stats
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal010&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-</p>
+</p> -->
 
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChinmayBansal010&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
@@ -107,9 +107,9 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" height="280px"/>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBansal010&hide=HTML,CSS,JavaScript,TypeScript,Jupyter%20Notebook,C&layout=compact&theme=dark&hide_border=true" height="280px"/>
-</p>
+</p> -->
 
 
 
@@ -119,7 +119,7 @@
   <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
----
+<!--  ---
 
 
 ## 💰 Support My Work
@@ -127,7 +127,7 @@
   <a href="https://buymeacoffee.com/ChinmayBansal" target="_blank">
     <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
-</p>
+</p> -->
 
 ---
 
