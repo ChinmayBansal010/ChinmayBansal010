@@ -100,7 +100,7 @@
 </p>
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChinmayBansal010&theme=dark&hide_border=true" height="180px"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChinmayBansal010&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left">
