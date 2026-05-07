@@ -101,40 +101,25 @@
 
 ---
 
-# 📊 GitHub Stats
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayBansal010&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-</p> -->
+# 📊 GitHub Stats:
 
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChinmayBansal010&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<p align = "left">
+  <img src="https://github-readme-stats.shion.dev/api?username=ChinmayBansal010&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="280px"/>
 </p>
 
-<!-- <p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ChinmayBansal010&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" height="280px"/>
-</p> -->
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayBansal010&hide=HTML,CSS,JavaScript,TypeScript,Jupyter%20Notebook,C&layout=compact&theme=dark&hide_border=true" height="280px"/>
+<p align = "left">
+  <img src="https://streak-stats.demolab.com/?user=ChinmayBansal010&theme=tokyonight&hide_border=false" height="280px"/>
 </p>
 
-
+<p align = "left">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChinmayBansal010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=C,Jupyter,Javascript" height="280px"/>
+</p>
 
 #
 
 <p align="left">
   <img src="https://github.com/ChinmayBansal010/ChinmayBansal010/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
-
-<!--  ---
-
-
-## 💰 Support My Work
-<p align="left">
-  <a href="https://buymeacoffee.com/ChinmayBansal" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p> -->
 
 ---
 
