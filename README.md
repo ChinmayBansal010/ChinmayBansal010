@@ -128,6 +128,7 @@
 <p align="center">
   <img width="50%" src="https://github-stats-extended.vercel.app/api?username=ChinmayBansal010&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 </p>
+
 <p align="center">  
   <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChinmayBansal010&layout=compact&langs_count=6&theme=tokyonight&hide=C,Jupyter,Javascript"/>
 </p>
