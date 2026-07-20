@@ -126,13 +126,13 @@
 # 📈 Development Activity
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=ChinmayBansal010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=ChinmayBansal010&show_icons=true&include_all_commits=true&theme=tokyonight"/>
 </p>
 <p align="center">  
-  <img width="50%" src="https://streak-stats.demolab.com/?user=ChinmayBansal010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=ChinmayBansal010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center">  
-  <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ChinmayBansal010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=C,Jupyter,Javascript"/>
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChinmayBansal010&layout=compact&langs_count=6&theme=tokyonight&hide=C,Jupyter,Javascript"/>
 </p>
 
 <p align="center">
