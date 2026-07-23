@@ -33,17 +33,9 @@ jobs:
           options: >
             user=${{ github.repository_owner }}
             &theme=tokyonight
-            &hide_border=true
+            &hide_border=false
             &border_radius=10
-            &stroke=30363D
-            &ring=58A6FF
-            &fire=FF9D00
-            &currStreakLabel=58A6FF
-            &currStreakNum=FFFFFF
-            &sideNums=FFFFFF
-            &sideLabels=A5B4C3
-            &dates=8B949E
-            &disable_animations=true
+            &disable_animations=false
             &include_all_commits=true
 
       - name: Commit and Push Changes
