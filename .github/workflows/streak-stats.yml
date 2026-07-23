@@ -30,13 +30,7 @@ jobs:
         with:
           token: ${{ secrets.STREAK_STATS_TOKEN }}
           path: profile/streak.svg
-          options: >
-            user=${{ github.repository_owner }}
-            &theme=tokyonight
-            &hide_border=false
-            &border_radius=10
-            &disable_animations=false
-            &include_all_commits=true
+          options: "user=${{ github.repository_owner }}&theme=tokyonight&hide_border=false&border_radius=10&disable_animations=false&include_all_commits=true"
 
       - name: Commit and Push Changes
         shell: bash
