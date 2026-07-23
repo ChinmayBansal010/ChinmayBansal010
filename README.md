@@ -135,7 +135,7 @@
 </p>
 
 <p align="center">  
-  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChinmayBansal010&layout=compact&langs_count=6&theme=tokyonight&hide=C,Jupyter,Javascript"/>
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs?username=ChinmayBansal010&layout=compact&langs_count=8&theme=tokyonight&hide=C,Jupyter,Javascript"/>
 </p>
 
 <p align="center">
