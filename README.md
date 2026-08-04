@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
   <a href="https://github.com/ChinmayBansal010" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chinmay+Bansal+👋" alt="Hi, I'm Chinmay Bansal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chinmay+Bansal+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
 
