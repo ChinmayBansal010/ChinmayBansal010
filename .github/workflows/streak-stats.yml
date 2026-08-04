@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v2
         with:
           token: ${{ secrets.STREAK_STATS_TOKEN }}
           path: profile/streak.svg
